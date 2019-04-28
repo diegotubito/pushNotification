@@ -7,14 +7,22 @@
 //
 
 import UIKit
+import Firebase
 
 class ViewController: UIViewController {
 
+    @IBOutlet var myTextField: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        
     }
 
-
+    @IBAction func mostrarTokenPresionado(_ sender: Any) {
+        myTextField.text = token
+    }
+    
 }
 

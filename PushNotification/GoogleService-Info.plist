@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>35620606567-3cu5jffug6b365j72da2bjrj5cbr9p59.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.35620606567-3cu5jffug6b365j72da2bjrj5cbr9p59</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1vrmf0z82RBA2_fAXf4Z156SZdoZt_F0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>35620606567</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ddg.PushNotification</string>
+	<key>PROJECT_ID</key>
+	<string>pushnotification-1491e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushnotification-1491e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:35620606567:ios:9773044ba0930f7f</string>
+	<key>DATABASE_URL</key>
+	<string>https://pushnotification-1491e.firebaseio.com</string>
+</dict>
+</plist>
